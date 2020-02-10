@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\dbproject\dbproject\bin\Debug\dbproject.exe.config
+C:\Users\User\source\repos\dbproject\dbproject\bin\Debug\dbproject.exe
+C:\Users\User\source\repos\dbproject\dbproject\bin\Debug\dbproject.pdb
+C:\Users\User\source\repos\dbproject\dbproject\obj\Debug\dbproject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\dbproject\dbproject\obj\Debug\dbproject.Form1.resources
+C:\Users\User\source\repos\dbproject\dbproject\obj\Debug\dbproject.Properties.Resources.resources
+C:\Users\User\source\repos\dbproject\dbproject\obj\Debug\dbproject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dbproject\dbproject\obj\Debug\dbproject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dbproject\dbproject\obj\Debug\dbproject.exe
+C:\Users\User\source\repos\dbproject\dbproject\obj\Debug\dbproject.pdb
